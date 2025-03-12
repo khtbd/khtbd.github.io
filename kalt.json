@@ -3,7 +3,7 @@
   "subtitle": "KRepo sub-branch 01",
   "descrption": "[ ALTSTORE ] repo made for experimenting new additions to the aio repo",
   "iconURL": "https://raw.githubusercontent.com/khtbd/KDRepo/refs/heads/main/Main%20Assets/kTester.jpg",
-  "headerURL": "https://private-user-images.githubusercontent.com/52432173/369132729-fb4f5843-8be4-425c-9874-89b4bf832699.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE4MTgyMzEsIm5iZiI6MTc0MTgxNzkzMSwicGF0aCI6Ii81MjQzMjE3My8zNjkxMzI3MjktZmI0ZjU4NDMtOGJlNC00MjVjLTk4NzQtODliNGJmODMyNjk5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzEyVDIyMTg1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI4MGRkMGM1YTQ4NGM1ZDQ0YzA2YzExZjcyNjRlZWZhYTg3YWZiYmNjMzIyZDRjNjkzZWZmMGJmMTMxMTBiNmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.x1X-wtrHSaZNK1XL9BKGx_-43FMM0fkJp7P3NXjmKkI",
+  "headerURL": "https://raw.githubusercontent.com/khtbd/KDRepo/refs/heads/main/Main%20Assets/rep.png",
   "tintColor": "#413938",
   "featuredApps": [
     "com.kTester.welcome"
@@ -21,10 +21,10 @@
       "category": "developer",
       "screenshots": [
         {
-          "imageURL": "https://private-user-images.githubusercontent.com/52432173/369132729-fb4f5843-8be4-425c-9874-89b4bf832699.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE4MTg1OTQsIm5iZiI6MTc0MTgxODI5NCwicGF0aCI6Ii81MjQzMjE3My8zNjkxMzI3MjktZmI0ZjU4NDMtOGJlNC00MjVjLTk4NzQtODliNGJmODMyNjk5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzEyVDIyMjQ1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA5ZTAyNzA3OGMwZGZjMTExNThhYzRjZDgxMjM5OWUxN2I5NGY3YmM4ZjU4MzRkMjQxODAzMDVlNjAxMGVjY2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.1fSVHM4oydR3QClehMBMz5sPJzxZFpvujhQ63HWfFIY"
+          "imageURL": "https://raw.githubusercontent.com/khtbd/KDRepo/refs/heads/main/Main%20Assets/rep.png"
         },
         {
-          "imageURL": "https://private-user-images.githubusercontent.com/52432173/369131712-2a5f719b-307b-47af-b264-50be207ccd64.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE4MTg1OTQsIm5iZiI6MTc0MTgxODI5NCwicGF0aCI6Ii81MjQzMjE3My8zNjkxMzE3MTItMmE1ZjcxOWItMzA3Yi00N2FmLWIyNjQtNTBiZTIwN2NjZDY0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzEyVDIyMjQ1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTllY2YzOWIwYWRlY2ZkNjVjZTlhNjJlNzczMGQ4ZjMwZmIwOTA1OTg3ZDg0NDEzMTYzNTVmZWM0Y2FmOTk3MTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DOdYFo5WDGllLvfBS3rZxRfn6-fGSVvrTiiByErmVVc"
+          "imageURL": "https://raw.githubusercontent.com/khtbd/KDRepo/refs/heads/main/Main%20Assets/rep.png"
         }
       ],
       "versions": [
