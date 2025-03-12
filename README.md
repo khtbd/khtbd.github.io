@@ -1,2 +1,1 @@
-# khtbd.github.io
-the website that will be used to host the KDRepo JSON collections
+# why are you here lol this is still not even up
