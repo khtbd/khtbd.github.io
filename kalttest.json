@@ -6,7 +6,7 @@
   "headerURL": "https://khtbd.github.io/repoIcons/kTesterHead.png",
   "tintColor": "#413938",
   "featuredApps": [
-    ""
+    "com.burbn.instagram"
   ],
   "website": "https://khtbd.github.io/",
   "apps": [
@@ -38,24 +38,24 @@
         }
       ],
       "versions": [
-      {
-        "version": "1.4",
-        "buildVersion": "703664031",
-        "localizedDescription": "Current latest version of Theta.",
-        "date": "2025-03-05T09:32:00+02:00",
-        "size": 216216371.2,
-        "downloadURL": "https://github.com/khtbd/khtbd.github.io/releases/download/theta-release/theta-1.4.ipa",
-        "minOSVersion": "13"
-      },
-      {
-        "version": "1.3",
-        "buildVersion": "695136484",
-        "localizedDescription": "1.3 changelog:\n[ + ] completely reworked how saving works {removed the long press gesture in favor for a button}\n[ + ] redesigned the banners for the load and save banners.",
-        "date": "2025-02-13T03:03:00+02:00",
-        "size": 211707494.4,
-        "downloadURL": "https://github.com/khtbd/khtbd.github.io/releases/download/theta-release/theta-1.3.ipa",
-        "minOSVersion": "13"
-      }
+        {
+          "version": "1.4",
+          "buildVersion": "703664031",
+          "localizedDescription": "Current latest version of Theta.",
+          "date": "2025-03-05T09:32:00+02:00",
+          "size": 216216371.2,
+          "downloadURL": "https://github.com/khtbd/khtbd.github.io/releases/download/theta-release/theta-1.4.ipa",
+          "minOSVersion": "13"
+        },
+        {
+          "version": "1.3",
+          "buildVersion": "695136484",
+          "localizedDescription": "1.3 changelog:\n[ + ] completely reworked how saving works {removed the long press gesture in favor for a button}\n[ + ] redesigned the banners for the load and save banners.",
+          "date": "2025-02-13T03:03:00+02:00",
+          "size": 211707494.4,
+          "downloadURL": "https://github.com/khtbd/khtbd.github.io/releases/download/theta-release/theta-1.3.ipa",
+          "minOSVersion": "13"
+        }
       ]
     }
   ],
