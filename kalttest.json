@@ -42,19 +42,19 @@
           "version": "1.4",
           "buildVersion": "703664031",
           "localizedDescription": "Current latest version of Theta.",
-          "date": "2025-03-05T09:32:00+02:00",
+          "date": "2025-03-05",
           "size": 216216371.2,
           "downloadURL": "https://github.com/khtbd/khtbd.github.io/releases/download/theta-release/theta-1.4.ipa",
-          "minOSVersion": "13"
+          "minOSVersion": "13.0"
         },
         {
           "version": "1.3",
           "buildVersion": "695136484",
           "localizedDescription": "1.3 changelog:\n[ + ] completely reworked how saving works {removed the long press gesture in favor for a button}\n[ + ] redesigned the banners for the load and save banners.",
-          "date": "2025-02-13T03:03:00+02:00",
+          "date": "2025-02-13",
           "size": 211707494.4,
           "downloadURL": "https://github.com/khtbd/khtbd.github.io/releases/download/theta-release/theta-1.3.ipa",
-          "minOSVersion": "13"
+          "minOSVersion": "13.0"
         }
       ]
     }
@@ -64,7 +64,7 @@
       "title": "added theta!",
       "identifier": "com.notify.newAPP",
       "caption": "theta 1.4 by objc_msgsend has been added to the repo!",
-      "date": "2025-02-13T03:03:00+02:00",
+      "date": "2025-02-13",
       "tintColor": "#384141",
       "imageURL": "https://khtbd.github.io/app%20assets/theta%20pics/theta.png",
       "url": "https://github.com/khtbd/khtbd.github.io",
