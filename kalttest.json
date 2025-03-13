@@ -13,11 +13,10 @@
     {
       "name": "theta",
       "bundleIdentifier": "com.burbn.instagram",
-      "marketplaceID": "389801252",
       "developerName": "objc_msgsend",
       "subtitle": "get more out of your instagram account!",
-      "versionDescription": "1.4 changelog:\n[ + ] fixed a typo in the banner that confirms you left a story unseen. also fixed an issue where this banner would be shown no matter what. this banner only shows when the 'show banners' feature is enabled.]\n[ + ] fixed 'hide create tab' feature to work on latest instagram version.\n[ + ] in favor for a more 'selective' approach for saving posts, a solution was implemented that allows the end user to view all the pictures/videos of a post in a view controller where they can select individual or just one to download.\n [ - ] the previous feature heavily relies on internet connection!\n[ + ] altered the spacing between the icon and text in the custom banners to look better.",
-      "localizedDescription": "a brand new, clean and polished tweak that allows for many features, including but not limited to: \n",
+      "versionDescription": "the new 1.4 update to theta!",
+      "localizedDescription": "a brand new, clean and polished tweak that allows for many features, giving you more control over your instagram experience.",
       "iconURL": "https://khtbd.github.io/app%20assets/theta%20pics/theta.png",
       "category": "social",
       "screenshots": [
