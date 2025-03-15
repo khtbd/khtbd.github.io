@@ -1,7 +1,7 @@
 {
   "name": "kTester",
   "subtitle": "KRepo sub-branch 01",
-  "descrption": "[ ALTSTORE ] repo made for experimenting new additions to the aio repo",
+  "description": "[ ALTSTORE ] repo made for experimenting new additions to the aio repo",
   "iconURL": "https://khtbd.github.io/repoIcons/kTester.jpg",
   "headerURL": "https://khtbd.github.io/repoIcons/kTesterHead.png",
   "tintColor": "#413938",
@@ -13,10 +13,9 @@
     {
       "name": "theta",
       "bundleIdentifier": "com.burbn.instagram",
-      "marketplaceID": "389801252",
       "developerName": "objc_msgsend",
       "subtitle": "get more out of your instagram account!",
-      "localizedDescription": "a brand new, clean and polished instagram tweak that allows for many features, including but not limited to: \n",
+      "localizedDescription": "a brand new, clean and polished instagram tweak that allows for a lot of control over your instagram experience.",
       "iconURL": "https://khtbd.github.io/app%20assets/theta%20pics/theta.png",
       "tintColor": "#413938",
       "category": "social",
@@ -30,7 +29,6 @@
       "versions": [
         {
           "version": "1.4",
-          "buildVersion": "703664031",
           "localizedDescription": "1.4 changelog:\n[ + ] fixed a typo in the banner that confirms you left a story unseen. also fixed an issue where this banner would be shown no matter what. this banner only shows when the 'show banners' feature is enabled.]\n[ + ] fixed 'hide create tab' feature to work on latest instagram version.\n[ + ] in favor for a more 'selective' approach for saving posts, a solution was implemented that allows the end user to view all the pictures/videos of a post in a view controller where they can select individual or just one to download.\n [ - ] the previous feature heavily relies on internet connection!\n[ + ] altered the spacing between the icon and text in the custom banners to look better.",
           "date": "2025-03-05T09:32:00+02:00",
           "size": 216216371.2,
@@ -39,7 +37,6 @@
         },
         {
           "version": "1.3",
-          "buildVersion": "695136484",
           "localizedDescription": "1.3 changelog:\n[ + ] completely reworked how saving works by removing the long-press gesture in favor for a button.\n[ + ] redesigned the banners for the load and save banners.",
           "date": "2025-02-13T03:03:00+02:00",
           "size": 211707494.4,
